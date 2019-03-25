@@ -1,0 +1,33 @@
+.chips {
+    padding: 10px 20px;
+    margin: 20px 10px;
+    border-radius: 12px;
+    background: rgba(0,0,0,.4);
+    color: #fff;
+}
+
+.chips-field {
+    width: 200px;
+    position: fixed;
+    right: 10px;
+    top: 10px;
+}
+.success{
+    background-color: green;
+}
+.warning{
+    background-color: gold;
+}
+.error{
+    background-color: red;
+}
+.btnMs{
+    width: 90px;
+    height: 30px;
+    line-height: 25px;
+    text-align: center;
+    border-radius: 20px;
+    font-weight: 900;
+    cursor: crosshair;
+    background-color: rgb(151, 247, 247);
+}

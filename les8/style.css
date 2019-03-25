@@ -1,0 +1,25 @@
+*{
+  margin: 5px;
+}
+.block {
+  width: 150px;
+  height: 150px;
+  background: bisque;
+  margin-left: 50px;
+  transition: all ease .3s;
+}
+#out{
+  width: 260px;
+  height: 360px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid red;
+  color: #fff;
+  font-weight: 900;
+  font-size: 25px;
+  background-image: url(close.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  transition: all .9s;
+}

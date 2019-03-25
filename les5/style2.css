@@ -1,0 +1,23 @@
+* {
+    font-family: serif;
+    color: black;
+    background: none;
+    text-align: left;
+    border: none;
+    margin: 0;
+    padding: 0;
+    /* float: left; */
+    /* display: inline; */
+} 
+img{
+    display: none;
+}
+input{
+    display: none;
+}
+button{
+    display: none;
+}
+/* br{
+    display: none;
+} */
